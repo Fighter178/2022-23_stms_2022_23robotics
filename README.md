@@ -1,2 +1,2 @@
-# 2022-23_stms_2022_23robotics
+# 2022-23 STMS Robotics
 STMS 2022-2023 Robotics Code
